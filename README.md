@@ -1,5 +1,7 @@
 # CBT(Computer Based Test)Program![KakaoTalk_20221016_222812692](https://user-images.githubusercontent.com/115934563/196039441-ca8c32d5-8155-4b4c-b5e5-6db4c6e19c00.jpg)
+
 DB에 저장된 문제집으로 간단히 모의고사를 칠 수 있는 프로그램
+This program was built with JSwing, and allows you to take a mock exam with questions stored in DB
 
 V1
 
