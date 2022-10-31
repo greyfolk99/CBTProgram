@@ -20,6 +20,10 @@ Functions
 
 Improvements Required
 
+DB
+
+- DB 구조 개선
+
 My Page
 
 - 기존 제출된 모의고사의 문제 해설 및 답 열람
